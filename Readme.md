@@ -1,9 +1,31 @@
 # Hola! Soy María Sol Arroyo  👋🏽 👩🏽‍💻
 
-Soy desarrolladora web frontend de **Argentina** 🇦🇷, me gustan mucho los desafíos y aprender de ellos, actualmente estoy especializandome en React y en Python, me encuentro además cursando **testing QA** como nuevo desafío.
+Soy **Argentina** 🇦🇷 y soy Desarrolladora Web Frontend, me gustan mucho los desafíos y aprender de ellos, actualmente estoy formandome en React y en Python, me encuentro además cursando **testing QA** como nuevo desafío.
 
 ### Sobre mi ✏️
 En principio comencé estudiando Ingenieria en Computación, durante la pandemia y buscando expandir mis conocimientos y las posibilidades que en ese momento tenía para no dejar de estudiar, comencé a inclinarme por el desarrollo web FrontEnd.
+
+#### 🔧 Habilidades adquiridas
+- ```HTML```
+- ```CSS```
+- ```JAVASCRIPT```
+- ```SASS```
+- ```BOOTSTRAP```
+- ```WORDPRESS```
+- ```NODE JS```
+- ```PYTHON```
+- ```PHP```
+- ```ADOBE```
+  1. llustrator
+  2. photoshop
+- ```FIGMA```
+
+#### Portfolio Web
+📓 https://solarroyoportfolio.github.io/resumeweb/
+
+### Portfolio Diseño
+🖌️ https://solchiiii81.wixsite.com/solarroyo
+
 
 ----------
 ## ✏️ Undefined Academy
