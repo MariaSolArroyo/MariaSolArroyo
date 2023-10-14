@@ -1,44 +1,38 @@
-# Hola! Soy María Sol Arroyo  👋🏽 👩🏽‍💻
+<h1 align="center">Hi 👋, I'm María Sol</h1>
+<h3 align="center">I'm from Argentina 🇦🇷 and I'm a Frontend Web Developer. I like the challenges and learn from them. At the moment I'm training in React, Data Analitycs and UX/UI Design.</h3>
 
-Soy **Argentina** 🇦🇷 y soy Desarrolladora Web Frontend, me gustan mucho los desafíos y aprender de ellos, actualmente estoy formandome en React y en Python, me encuentro además cursando **testing QA** como nuevo desafío.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariasolarroyo&label=Profile%20views&color=0e75b6&style=flat" alt="mariasolarroyo" /> </p>
 
-### Sobre mi ✏️
-En principio comencé estudiando Ingenieria en Computación, durante la pandemia y buscando expandir mis conocimientos y las posibilidades que en ese momento tenía para no dejar de estudiar, comencé a inclinarme por el desarrollo web FrontEnd.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariasolarroyo" alt="mariasolarroyo" /></a> </p>
 
-#### 🔧 Habilidades adquiridas
-- ```HTML```
-- ```CSS```
-- ```JAVASCRIPT```
-- ```SASS```
-- ```BOOTSTRAP```
-- ```WORDPRESS```
-- ```NODE JS```
-- ```PYTHON```
-- ```PHP```
-- ```ADOBE```
-  1. llustrator
-  2. photoshop
-- ```FIGMA```
+- 🔭 I’m currently working on **a web project called "La Portuaria"**
 
-#### Portfolio Web
-📓 https://solarroyoportfolio.github.io/resumeweb/
+- 🌱 I’m currently learning **React,Python,UX/UI Design,Api,SQL and Data Analytics.**
 
-### Portfolio Diseño
-🖌️ https://solchiiii81.wixsite.com/solarroyo
+- 👯 I’m looking to collaborate on **differents projects to inprove my knowledge**
 
+- 👨‍💻 All of my projects are available at [https://solarroyoportfolio.github.io/resumeweb/](https://solarroyoportfolio.github.io/resumeweb/)
 
-----------
-## ✏️ Undefined Academy
-### 💻 Comandos Básicos de Terminal 
- 
-| Comando | Descripción |
-| ------ | ------ |
-| ```date``` | Muestra la fecha y hora del sistema actual |
-| ```ls``` | Lista los archivos de la carpeta actual o de la ruta dada |
-| ```cd``` | Nos permite navegar entre carpetas |
-| ```mkdir``` | Crea una nueva carpeta dado un nombre para esa carpeta |
-| ```touch``` | Cre un archivo nuevo dada una ruta y/o nombre |
+- 🎨 All of my design projects are available at [https://solchiiii81.wixsite.com/solarroyo](https://solchiiii81.wixsite.com/solarroyo)
 
-### 💻 Alias Útiles
-- **Alias** `cl` = ```"clear"``` 
-- **Alias** `npms` = ```"npm start"``` 
+- 📫 How to reach me **mariasolarroyoc@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mariasolarroyoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariasolarroyoc" height="30" width="40" /></a>
+<a href="https://www.behance.net/mariasolarroyoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mariasolarroyoc" height="30" width="40" /></a>
+<a href="/https://solchiiii81.wixsite.com/solarroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://solchiiii81.wixsite.com/solarroyo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasolarroyo&show_icons=true&locale=en&layout=compact" alt="mariasolarroyo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariasolarroyo&show_icons=true&locale=en" alt="mariasolarroyo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasolarroyo&" alt="mariasolarroyo" /></p>
